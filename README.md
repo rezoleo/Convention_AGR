@@ -11,7 +11,7 @@ Le PDF des statuts est à télécharger dans l'onglet [releases](https://github.
 
 ## Historique
 
-Ancien Etherpad de travail : https://etherpad.fr/p/l7NNy4YYQv
+Ancien Etherpad de travail : https://etherpad.fr/p/l7NNy4YYQv  
 Et le RFC de AstroNoot : https://rezopad.rez-gif.supelec.fr/p/convention_rezoleo_rfc
 
 ## Remerciements
